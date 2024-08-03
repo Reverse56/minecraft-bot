@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Sub_to_bejtube",
+    "username": "الزنجي المتألق",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "bej.aternos.me",
-    "port": 32130,
+    "ip": "khodary.aternos.me",
+    "port": 53539,
     "version": "1.12.2"
   },
 
